@@ -1,0 +1,9 @@
+COMESTIBLE
+fideo
+arroz
+harina
+azucar
+LIMPIEZA
+desodorante
+lavandina
+detergente
